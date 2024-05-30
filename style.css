@@ -83,7 +83,7 @@ strong {
 
 .card h2:hover {
     color: var(--primary-color);
-    animation-delay: 100ms;
+    transition: ease-in-out 200ms;
 }
 
 
